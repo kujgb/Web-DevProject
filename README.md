@@ -2,5 +2,5 @@
 
 ## Group Members
 
-- Orazova Amina
-- Umbetkyzy Aida
+- Оразова Амина
+- Үмбетқызы Аида
