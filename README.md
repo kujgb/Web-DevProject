@@ -1,6 +1,6 @@
 # Web-DevProject
 
-# Group Members
+## Group Members
 
-Orazova Amina
-Umbetkyzy Aida
+- Orazova Amina
+- Umbetkyzy Aida
